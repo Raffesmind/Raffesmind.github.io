@@ -1,6 +1,6 @@
 # Site settings
 title: "Rafael L. Ventura Blog"
-email: rafa.luve@gmail.com
+email: "rafa.luve@gmail.com"
 description: "A simple blog of a former graduate designer"
 baseurl: "http://raffesmind.github.io/"
 url: "http://raffesmind.github.io/"
@@ -8,15 +8,15 @@ title_description: "Simple blog sharing studies about tecnology, human beings an
 title_image: ""
 google_analytics: ""
 disqus_account: ""
-github_repository: https://github.com/raffesmind
+github_repository: "https://github.com/raffesmind"
 addthis_id: ""
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: _raffesmind
-github_username:  raffesmind
-linkedin_link: https://br.linkedin.com/in/raffes
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+twitter_username: "_raffesmind"
+github_username:  "raffesmind"
+linkedin_link: "https://br.linkedin.com/in/raffes"
+stackoverflow_link: ""
 
 # Footer
 footer_left: "Made with Jekylls and Carte Noire Template by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
