@@ -2,14 +2,14 @@
 title: "Rafael L. Ventura Blog"
 email: rafa.luve@gmail.com
 description: "A simple blog of a former graduate designer"
-baseurl: ""
+baseurl: "http://raffesmind.github.io/"
 url: "http://raffesmind.github.io/"
-title_description: ""
+title_description: "Simple blog sharing studies about tecnology, human beings and culture"
 title_image: ""
 google_analytics: ""
-disqus_account:
+disqus_account: ""
 github_repository: https://github.com/raffesmind
-addthis_id:
+addthis_id: ""
 post_limit: 5
 
 # Social usernames/URLs
