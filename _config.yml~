@@ -1,20 +1,20 @@
 # Site settings
-title: "Rafael L. Ventura"
-email: rafa.luve@gmail.com
-description: "Blog to talk about design in all the ways, from art to code."
+title: "Carte Noire"
+email: jacob@jacobtomlinson.co.uk
+description: "A dark blog theme for Jekyll."
 baseurl: ""
-url: ""
-title_description: "Great thoughts made by a eternal design student"
-title_image: "https://pt.gravatar.com/raffesmin"
-google_analytics: ""
-disqus_account: disqus_ZcfUWqJ3vz
-github_repository: https://github.com/raffesmind
+url: "http://carte-noire.jacobtomlinson.co.uk/"
+title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
+title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+google_analytics: "UA-20365477-4"
+disqus_account: cartenoire
+github_repository: https://github.com/jacobtomlinson/carte-noire
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: _raffesmind
-github_username:  raffesmind
+twitter_username: _jacobtomlinson
+github_username:  jacobtomlinson
 linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
 google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
 stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
